@@ -3,7 +3,7 @@
 ## About
 Broadcast message on whatsapp web using google colabs server
 
-The main code is WhatsappAutomateSendV1.ipynb file.
+The main code is automateWhatsappSentV1.ipynb file.
 
 What this code do is automate manual clicking the predetermined api.whatsapp.com/send?message on your google sheet, the example table were shown in CSVCoba - Sheet3.csv but on google sheet format.
 ##How to Use
